@@ -1,0 +1,108 @@
+.sec{
+  text-align: center;
+  border: 2px solid gray;
+  margin: 50px;
+  margin-left: 345px;
+  height: 473px;
+  width: 531px;
+
+  
+  
+ 
+ }
+ .head{
+  border: 1px solid green;
+  margin: -2px;
+ 
+ }
+
+ .name{
+   
+   text-align: center;
+   width: 532px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+  margin: 33px;
+  margin-left: 0px;
+  justify-content: space-around;
+}
+
+   
+  
+ 
+   /* padding-left: 40px; */
+   /* margin: 50px; */
+   /* border: 40px; */
+ .Gender{
+   
+   text-align: center;
+   width: 532px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+  margin: 33px;
+  margin-left: -1pxpx;
+  justify-content: space-evenly;
+   
+ 
+ }
+ .email{
+   
+   text-align: center;
+   width: 532px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+  margin: 33px;
+  margin-left: 0px;
+  justify-content: space-around;
+ }
+ .date{ 
+   
+   text-align: center;
+   width: 532px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+  margin: 33px;
+  margin-left: 0px;
+  justify-content: center;
+  
+ }
+ .address{
+   
+   text-align: center;
+   width: 532px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+  margin: 33px;
+  margin-left: 0px;
+ justify-content: center;
+ 
+ }
+ .subject{
+  text-align: center;
+  width: 532px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+ margin: 33px;
+ margin-left: 0px;
+ justify-content: center;
+
+
+ }
+ .submit{
+  text-align: center;
+  width: 532px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+ margin: 33px;
+ margin-left: 0px;
+ justify-content: center;
+ justify-content: space-around;
+ 
+ }
